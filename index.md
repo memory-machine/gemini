@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Thingking Machine
+title: Memory Machine
 ---
-# Thingking Machine
+# Memory Machine
 
 <br>
-Go directly to the [Dialogue Page](/openai/machine) or change an submit the settings.
+Go directly to the [Dialogue Page](/gemini/machine) or change and submit the settings.
 <br><br>
 
 {% include parameter-form.html %}
