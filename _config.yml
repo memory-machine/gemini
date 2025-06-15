@@ -8,5 +8,5 @@ include:
   - LICENSE.md
 baseurl: /gemini
 
-title: Thingking Machine
-description: This is a machine that thingks.
+title: Memory Machine
+description: A Machine that owns Memory.
